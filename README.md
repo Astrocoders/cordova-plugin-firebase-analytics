@@ -14,6 +14,10 @@ NOTE: on iOS in order to collect demographic, age, gender data etc. you should a
 - iOS
 - Android
 
+## iOS Setup
+
+Access [HERE](https://firebase.google.com/docs/ios/setup) and add the FireBase Core Lib by yourself. No cocoapods in this version
+
 ## Methods
 
 ### logEvent(_name_, _params_)
